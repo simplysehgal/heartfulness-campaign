@@ -7,7 +7,7 @@
 __pycache__/
 *.pyc
 submissions.csv
-
+Everythingelse/
 
 # Ignore other unnecessary files
 .env
