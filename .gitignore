@@ -5,6 +5,9 @@
 *.log
 *.tmp
 __pycache__/
+*.pyc
+submissions.csv
+
 
 # Ignore other unnecessary files
 .env
